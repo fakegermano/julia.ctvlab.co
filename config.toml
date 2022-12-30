@@ -26,10 +26,10 @@ metaDataFormat= "yaml"
   headerTitle = "Julia Travieso"
   copyright = "© 2022 Julia Travieso.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
   name = "julia_travieso"
-  img = "img/author.jpg"
+  img = "img/julia-travieso.jpeg"
   img_title = "Essa e a julia"
-  icon = "img/logo.png"
-  quote = "A nice quote that you like that describes the beautiful person you are."
+  icon = "img/icon.jpg"
+  quote = "ajuda marcas a desenvolver uma personalidade online"
   description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam. Quis risus sed vulputate odio ut. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Bibendum at varius vel pharetra vel turpis. Semper viverra nam libero justo laoreet sit amet cursus. Mauris a diam maecenas sed enim ut sem."
   licenseUrl = ""
 
@@ -48,7 +48,7 @@ metaDataFormat= "yaml"
 
 [params.style]
   # add path to custom CSS files here
-  custom_css = []
+  custom_css = ["css/style.css"]
   # add path to custom SCSS files here
   custom_scss = []
 

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap'); 
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+.intro-quote {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold; 
+    font-size: 1.8rem;
+}
+.espaco-cima {
+    margin-top: 9rem;
+  }
+  

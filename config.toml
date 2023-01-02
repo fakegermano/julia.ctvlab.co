@@ -36,15 +36,15 @@ metaDataFormat= "yaml"
  # Social icons
   [[params.social]]
     name = "email"
-    url  = "mailto:mail@mail.com"
+    url  = "mailto:julia@ctvlab.co"
 
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/juliagtr_"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/juliagtr/"
 
 [params.style]
   # add path to custom CSS files here

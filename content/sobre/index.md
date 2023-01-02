@@ -15,6 +15,7 @@ entender as marcas como habitantes desses territórios digitais possibilitou uma
 
 esse site é a manifestação de uma série de pesquisas, teorias, projetos e relacionamentos desenvolvidos ao longo do caminho: [engajaflix](https://www.instagram.com/engajaflix.club/), [CTV LAB](https://ctvlab.co), [#marcovermelho](https://ctv-lab.medium.com/março-vermelho-coletânea-44e424fdd77a), [#100diasfazendo](https://cem.engajaflix.club/timeline/), [Desmistificando a Economia Criativa Através da Vivência](https://ctvlab.co/categories/desmistificando-a-economia-criativa/)
 
+
 {{< figure class="espaco-cima" width="100%" src="skills.gif" >}}
 
 Journalism;
@@ -88,6 +89,8 @@ Análise de imagens – A importância da imagem na comunicação atual,  Narra�
 Pauta Verde - Uma experiência em Jornalismo Ambiental, 
 Criando e Publicando Webdocumentários, Radiojornalismo, Jornalismo Digital, Redação de Jornalismo Diário, Assessoria de Comunicação, Jornalismo para Televisão, Teorias da Comunicação, Sociologia e Filosofia
 
+#### currículo lattes: [clique para abrir](http://lattes.cnpq.br/3313709872825774)
+
 {{< figure class="espaco-cima" width="100%" src="apresentacoesoficinas.gif" >}}
 
 {{< figure width="100%" src="criabauru.png" >}}
@@ -152,7 +155,47 @@ Francês
 
 {{< figure class="espaco-cima" width="100%" src="bio.gif" >}}
 
-`"De todo o caminho trilhado até o entendimento daquele que pode ser visto como seu propósito, a relação de Julia com a economia criativa mostra para o grande sentido de todo o movimento, o aprendizado e o crescimento que se conquista ao longo do processo. “Para a maioria das pessoas que estão nesse meio é a única opção, não tem uma escolha. A pessoa não está ali enquanto ela vê se não quer outra coisa ou tentando inovar, ele precisa fazer aquilo dar certo do jeito que tiver que ser. Na economia criativa o foco não está na ideia, mas sim na prática e no processo. […] É tudo um processo, e a economia criativa enxerga isso muito bem. Ela consegue, de uma forma inteligente, pular obstáculos que negócios tradicionais não conseguiriam.”`
+`De todo o caminho trilhado até o entendimento daquele que pode ser visto como seu propósito, a relação de Julia com a economia criativa mostra para o grande sentido de todo o movimento, o aprendizado e o crescimento que se conquista ao longo do processo. “Para a maioria das pessoas que estão nesse meio é a única opção, não tem uma escolha. A pessoa não está ali enquanto ela vê se não quer outra coisa ou tentando inovar, ele precisa fazer aquilo dar certo do jeito que tiver que ser. Na economia criativa o foco não está na ideia, mas sim na prática e no processo. […] É tudo um processo, e a economia criativa enxerga isso muito bem. Ela consegue, de uma forma inteligente, pular obstáculos que negócios tradicionais não conseguiriam.”`
 
 [entrevista para OiCriativas](https://oicriativas.faac.unesp.br/index.php/2021/05/27/colab-comunicacao-no-mercado-colaborativo/)
+
+{{< figure class="espaco-cima" width="100%" src="fotografias.gif" >}}
+
+{{< figure width="100%" src="foto-tempo.jpg" >}}
+Bauru - festival de dança Sobre o Tempo (2017)
+
+{{< figure width="100%" src="foto-cachoeira.jpg" >}}
+São Carlos - projeto NaturArte (2015)
+
+{{< figure width="100%" src="foto-pousada.jpg" >}}
+Bauru - Pousada Cultural (2014)
+
+{{< figure width="100%" src="foto-floripa.jpg" >}}
+Florianópolis - paisagens brasileiras (2016)
+
+{{< figure class="espaco-cima" width="100%" src="textos.gif" >}}
+
+{{< figure width="100%" src="diversidade.png" >}}
+publicado no [blog do CTV LAB](https://ctv-lab.medium.com/diversidade-não-é-buzzword-é-prática-institucional-diária-fda6d0d17139)
+
+{{< figure width="100%" src="ferselva.png" >}}
+publicado no [blog do CTV LAB](https://ctv-lab.medium.com/fernanda-selva-cria-comunicação-através-da-arte-e-do-cinema-e74462f25ca)
+
+{{< figure width="100%" src="ltcdm.png" >}}
+publicado no [blog do CTV LAB](https://ctv-lab.medium.com/letícia-de-maceno-autorretrato-e-quarentena-1e7706feb301)
+
+
+{{< figure class="espaco-cima" width="100%" src="producoes.png" >}}
+
+{{< youtube id="v=SzI_G7TAKPo" >}}
+
+Pensamentos e questionamentos sobre os espaços públicos de lazer nas cidades e a especulação imobiliária à partir do estudo do caso da praça Imprensa Fluminense/Centro de Convivência Cultural de Campinas
+
+
+{{< figure class="espaco-cima" width="100%" src="love.png" >}}
+
+## obrigada pela visita 🤞
+
+
+
 

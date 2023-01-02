@@ -2,6 +2,34 @@
 title: "Portfolio"
 ---
 
+{{< figure width="100%" src="portfolio-julia-img-atados-capa.png" >}}
+
+## plataforma para engajar e mobilizar ações sociais voluntárias
+
+{{< figure width="100%" src="mockup-cel-atados.png" >}}
+
+Entrevista, Pesquisa e Redação de Conteúdo para Redes Sociais
+
+{{< figure width="100%" src="mockup-posts-atados.png" >}}
+
+### Cliente: Atados
+
+**Equipe:**
+
+**Jéssika Elizandra:** gestão de time e planejamento estratégico
+
+**Bianca Zazulla:** social media, edição e distribuição de conteúdo
+
+**Julia Travieso:** entrevista, pesquisa e redação de conteúdo
+
+**Ana Clara Selhorst:** direção de arte
+
+**Felipe Moreira** direção de arte 
+
+**Antônio Souza:** design
+
+Os resultados do projeto são confidenciais.
+
 {{< figure class="espaco-cima" width="100%" src="portfolio-julia-img-pon.capa.png" >}}
 
 ## jogo mobile de ação com temática ambiental
@@ -26,7 +54,7 @@ Consultoria de Comunicação - Planejamento de Conteúdo Estratégico
 
 **Rodrigo Morelli:** direção de arte e design 
 
-**Louise Ribeiro** criação
+**Louise Ribeiro:** criação
 
 **Leasi Gomes:** criação
 

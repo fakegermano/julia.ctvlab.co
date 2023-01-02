@@ -98,7 +98,7 @@ Cria Bauru: [Como criar estratégias narrativas para a ocupação de território
 
 OiCriativas:   [Mulheres na Economia Criativa: Desafios e Soluções na Pandemia](https://www.youtube.com/watch?v=AymAAnTnmdg)
 
-{{< figure width="100%" src="oicriativas.png" >}}
+{{< figure width="100%" src="odara.png" >}}
 
 Fuzuê Odara - [Empreendedorismo Local e Pink Money](https://www.youtube.com/watch?v=JHTk2mJriu4)
 

@@ -151,6 +151,7 @@ Español
 **Introdutório**
 
 Italiano
+
 Francês
 
 {{< figure class="espaco-cima" width="100%" src="bio.gif" >}}
@@ -194,7 +195,7 @@ Pensamentos e questionamentos sobre os espaços públicos de lazer nas cidades e
 
 {{< figure class="espaco-cima" width="100%" src="love.png" >}}
 
-## obrigada pela visita 🤞
+## obrigada pela visita ✌️
 
 
 

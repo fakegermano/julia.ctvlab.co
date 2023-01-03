@@ -188,7 +188,7 @@ publicado no [blog do CTV LAB](https://ctv-lab.medium.com/letícia-de-maceno-aut
 
 {{< figure class="espaco-cima" width="100%" src="producoes.png" >}}
 
-{{< youtube id="v=SzI_G7TAKPo" >}}
+{{< youtube id="SzI_G7TAKPo" >}}
 
 Pensamentos e questionamentos sobre os espaços públicos de lazer nas cidades e a especulação imobiliária à partir do estudo do caso da praça Imprensa Fluminense/Centro de Convivência Cultural de Campinas
 

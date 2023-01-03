@@ -93,29 +93,18 @@ Criando e Publicando Webdocumentários, Radiojornalismo, Jornalismo Digital, Red
 
 {{< figure class="espaco-cima" width="100%" src="apresentacoesoficinas.gif" >}}
 
-{{< figure width="100%" src="criabauru.png" >}}
+{{< figure width="100%" src="criabauru.png" caption="Cria Bauru: [Como criar estratégias narrativas para a ocupação de territórios digitais](https://www.youtube.com/watch?v=wdukUpXg_2I)" >}}
 
-Cria Bauru: [Como criar estratégias narrativas para a ocupação de territórios digitais](https://www.youtube.com/watch?v=wdukUpXg_2I)
 
-{{< figure width="100%" src="oicriativas.png" >}}
+{{< figure width="100%" src="oicriativas.png" caption="OiCriativas:   [Mulheres na Economia Criativa: Desafios e Soluções na Pandemia](https://www.youtube.com/watch?v=AymAAnTnmdg)" >}}
 
-OiCriativas:   [Mulheres na Economia Criativa: Desafios e Soluções na Pandemia](https://www.youtube.com/watch?v=AymAAnTnmdg)
+{{< figure width="100%" src="odara.png" caption="Fuzuê Odara - [Empreendedorismo Local e Pink Money](https://www.youtube.com/watch?v=JHTk2mJriu4)" >}}
 
-{{< figure width="100%" src="odara.png" >}}
+{{< figure width="100%" src="podcast.jpg" caption="The Afterword Podcast - Enterpreneurial Success in the Global South" >}}
 
-Fuzuê Odara - [Empreendedorismo Local e Pink Money](https://www.youtube.com/watch?v=JHTk2mJriu4)
+{{< figure width="100%" src="usc-oficina.jpg" caption="USC - Oficina: Criação de campanha sob a perspectiva das Narrativas Plurais" >}}
 
-{{< figure width="100%" src="podcast.jpg" >}}
-
-The Afterword Podcast - Enterpreneurial Success in the Global South
-
-{{< figure width="100%" src="usc-oficina.jpg" >}}
-
-USC - Oficina: Criação de campanha sob a perspectiva das Narrativas Plurais
-
-{{< figure width="100%" src="usc-palestra.jpg" >}}
-
-USC - Palestra: Comunicação de Influência e as Narrativas Femininas
+{{< figure width="100%" src="usc-palestra.jpg" caption="USC - Palestra: Comunicação de Influência e as Narrativas Femininas" >}}
 
 {{< figure class="espaco-cima" width="100%" src="experiencias.gif" >}}
 
@@ -156,42 +145,36 @@ Francês
 
 {{< figure class="espaco-cima" width="100%" src="bio.gif" >}}
 
-`De todo o caminho trilhado até o entendimento daquele que pode ser visto como seu propósito, a relação de Julia com a economia criativa mostra para o grande sentido de todo o movimento, o aprendizado e o crescimento que se conquista ao longo do processo. “Para a maioria das pessoas que estão nesse meio é a única opção, não tem uma escolha. A pessoa não está ali enquanto ela vê se não quer outra coisa ou tentando inovar, ele precisa fazer aquilo dar certo do jeito que tiver que ser. Na economia criativa o foco não está na ideia, mas sim na prática e no processo. […] É tudo um processo, e a economia criativa enxerga isso muito bem. Ela consegue, de uma forma inteligente, pular obstáculos que negócios tradicionais não conseguiriam.”`
+> De todo o caminho trilhado até o entendimento daquele que pode ser visto como seu propósito, a relação de Julia com a economia criativa mostra para o grande sentido de todo o movimento, o aprendizado e o crescimento que se conquista ao longo do processo. “Para a maioria das pessoas que estão nesse meio é a única opção, não tem uma escolha. A pessoa não está ali enquanto ela vê se não quer outra coisa ou tentando inovar, ele precisa fazer aquilo dar certo do jeito que tiver que ser. Na economia criativa o foco não está na ideia, mas sim na prática e no processo. […] É tudo um processo, e a economia criativa enxerga isso muito bem. Ela consegue, de uma forma inteligente, pular obstáculos que negócios tradicionais não conseguiriam.”
 
 [entrevista para OiCriativas](https://oicriativas.faac.unesp.br/index.php/2021/05/27/colab-comunicacao-no-mercado-colaborativo/)
-
+ 
 {{< figure class="espaco-cima" width="100%" src="fotografias.gif" >}}
 
-{{< figure width="100%" src="foto-tempo.jpg" >}}
-Bauru - festival de dança Sobre o Tempo (2017)
+{{< figure width="100%" src="foto-tempo.jpg" caption="Bauru - festival de dança Sobre o Tempo (2017)" >}}
 
-{{< figure width="100%" src="foto-cachoeira.jpg" >}}
-São Carlos - projeto NaturArte (2015)
+{{< figure width="100%" src="foto-cachoeira.jpg" caption="São Carlos - projeto NaturArte (2015)" >}}
 
-{{< figure width="100%" src="foto-pousada.jpg" >}}
-Bauru - Pousada Cultural (2014)
+{{< figure width="100%" src="foto-pousada.jpg" caption="Bauru - Pousada Cultural (2014)" >}}
 
-{{< figure width="100%" src="foto-floripa.jpg" >}}
-Florianópolis - paisagens brasileiras (2016)
+
+{{< figure width="100%" src="foto-floripa.jpg" caption="Florianópolis - paisagens brasileiras (2016)" >}}
 
 {{< figure class="espaco-cima" width="100%" src="textos.gif" >}}
 
-{{< figure width="100%" src="diversidade.png" >}}
-publicado no [blog do CTV LAB](https://ctv-lab.medium.com/diversidade-não-é-buzzword-é-prática-institucional-diária-fda6d0d17139)
+{{< figure width="100%" src="diversidade.png" caption="publicado no [blog do CTV LAB](https://ctv-lab.medium.com/diversidade-não-é-buzzword-é-prática-institucional-diária-fda6d0d17139)" >}}
 
-{{< figure width="100%" src="ferselva.png" >}}
-publicado no [blog do CTV LAB](https://ctv-lab.medium.com/fernanda-selva-cria-comunicação-através-da-arte-e-do-cinema-e74462f25ca)
 
-{{< figure width="100%" src="ltcdm.png" >}}
-publicado no [blog do CTV LAB](https://ctv-lab.medium.com/letícia-de-maceno-autorretrato-e-quarentena-1e7706feb301)
+{{< figure width="100%" src="ferselva.png" caption="publicado no [blog do CTV LAB](https://ctv-lab.medium.com/fernanda-selva-cria-comunicação-através-da-arte-e-do-cinema-e74462f25ca)" >}}
 
+
+{{< figure width="100%" src="ltcdm.png" caption="publicado no [blog do CTV LAB](https://ctv-lab.medium.com/letícia-de-maceno-autorretrato-e-quarentena-1e7706feb301)" >}}
 
 {{< figure class="espaco-cima" width="100%" src="producoes.png" >}}
 
 {{< youtube id="SzI_G7TAKPo" >}}
 
 Pensamentos e questionamentos sobre os espaços públicos de lazer nas cidades e a especulação imobiliária à partir do estudo do caso da praça Imprensa Fluminense/Centro de Convivência Cultural de Campinas
-
 
 {{< figure class="espaco-cima" width="100%" src="love.png" >}}
 

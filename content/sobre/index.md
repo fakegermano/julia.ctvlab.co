@@ -99,27 +99,27 @@ Festival Cidade do Futuro 2023: [Arena - O Futuro da Arte](https://www.cidadedof
 
 {{< figure width="100%" src="criabauru.png" >}}
 
-Cria Bauru: [Como criar estratégias narrativas para a ocupação de territórios digitais](https://www.youtube.com/watch?v=wdukUpXg_2I)
+Cria Bauru 2022: [Como criar estratégias narrativas para a ocupação de territórios digitais](https://www.youtube.com/watch?v=wdukUpXg_2I)
 
 {{< figure width="100%" src="oicriativas.png" >}}
 
-OiCriativas:   [Mulheres na Economia Criativa: Desafios e Soluções na Pandemia](https://www.youtube.com/watch?v=AymAAnTnmdg)
+OiCriativas 2021:   [Mulheres na Economia Criativa: Desafios e Soluções na Pandemia](https://www.youtube.com/watch?v=AymAAnTnmdg)
 
 {{< figure width="100%" src="odara.png" >}}
 
-Fuzuê Odara - [Empreendedorismo Local e Pink Money](https://www.youtube.com/watch?v=JHTk2mJriu4)
+Fuzuê Odara 2021: [Empreendedorismo Local e Pink Money](https://www.youtube.com/watch?v=JHTk2mJriu4)
 
 {{< figure width="100%" src="podcast.jpg" >}}
 
-The Afterword Podcast - Enterpreneurial Success in the Global South
+The Afterword Podcast 2021 - Enterpreneurial Success in the Global South
 
 {{< figure width="100%" src="usc-oficina.jpg" >}}
 
-USC - Oficina: Criação de campanha sob a perspectiva das Narrativas Plurais
+USC - Oficina 2019: Criação de campanha sob a perspectiva das Narrativas Plurais
 
 {{< figure width="100%" src="usc-palestra.jpg" >}}
 
-USC - Palestra: Comunicação de Influência e as Narrativas Femininas
+USC - Palestra 2018: Comunicação de Influência e as Narrativas Femininas
 
 {{< figure class="espaco-cima" width="100%" src="experiencias.gif" >}}
 

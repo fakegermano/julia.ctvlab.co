@@ -33,7 +33,7 @@ Planejamento Estratégico, Direção Criativa e Relacionamento com Creators
 Os resultados do projeto são confidenciais.
 
 
-{{< figure width="100%" src="portfolio-julia-img-atados-capa.png" >}}
+{{< figure class="espaco-cima" width="100%" src="portfolio-julia-img-atados-capa.png" >}}
 
 ## plataforma para engajar e mobilizar ações sociais voluntárias
 

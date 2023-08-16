@@ -10,7 +10,7 @@ title: "Portfolio"
 
 Planejamento Estratégico, Direção Criativa e Relacionamento com Creators
 
-{{< figure width="100%" src="steice-tudopink.png" >}}
+{{< figure width="100%" src="steice-tudopínk.png" >}}
 
 {{< figure width="100%" src="spoiler-diadasmaes.png" >}}
 

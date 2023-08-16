@@ -2,7 +2,7 @@
 title: "Portfolio"
 ---
 
-{{< figure width="100%" src="ricosti.png" >}}
+{{< figure width="100%" src="ricosti-reposicionamento.png" >}}
 
 ## marca de cosméticos brasileira e vegana
 

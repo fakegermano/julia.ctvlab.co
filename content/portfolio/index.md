@@ -2,6 +2,37 @@
 title: "Portfolio"
 ---
 
+{{< figure width="100%" src="ricosti.png" >}}
+
+## marca de cosméticos brasileira e vegana
+
+{{< figure width="100%" src="mockup-insta-ricosti.png" >}}
+
+Planejamento Estratégico, Direção Criativa e Relacionamento com Creators
+
+{{< figure width="100%" src="steice-tudopink.png" >}}
+
+{{< figure width="100%" src="spoiler-diadasmaes.png" >}}
+
+{{< figure width="100%" src="glaina-diadosnamorados.png" >}}
+
+### Cliente: Ricosti
+
+**Equipe:**
+
+**Julia Travieso:** gestão de projeto, planejamento estratégico, direção criativa, relacionamento com creators
+
+**Vania Benvenuto:** consultoria de imagem de moda, planejamento de conteúdo
+
+**Viviani Bianchi:** consultoria técnica em cosméticos, produção e edição de vídeo
+
+**Guilherme Nogueira:** atendimento
+
+**Samuel Rocha:** design
+
+Os resultados do projeto são confidenciais.
+
+
 {{< figure width="100%" src="portfolio-julia-img-atados-capa.png" >}}
 
 ## plataforma para engajar e mobilizar ações sociais voluntárias
